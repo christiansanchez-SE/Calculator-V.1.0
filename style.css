@@ -1,3 +1,5 @@
-* {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+*, *::before,*::after {
+    box-sizing: border-box;
+    font-family: Gotham Rounded, sans-serif;
+    font-weight: normal;
 }
