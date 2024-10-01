@@ -7,7 +7,7 @@
 body {
     padding: 0;
     margin: 0;
-    background: linear-gradient(to right, #00AAFF, #00FF6C);
+    background: linear-gradient(to right, #00AAFF, #ff006a);
 }
 
 .calculator-grid {
@@ -16,7 +16,7 @@ body {
     align-items: center;
     min-height: 100vh;
     grid-template-columns: repeat(4, 100px);
-    grid-template-rows: minmax(120px, auto) repeat(5, 100px);
+    grid-template-rows: minmax(120px, 100px) repeat(5, 41px);
 }
 
 .calculator-grid > button {
@@ -25,6 +25,7 @@ body {
     border: 1px solid white;
     outline: none;
     background-color: rgba(255, 255, 255, .75);
+    transition: background-color 0.3s ease;
 }
 
 .calculator-grid > button:hover {
