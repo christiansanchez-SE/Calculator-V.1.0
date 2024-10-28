@@ -18,8 +18,8 @@ This is a simple calculator web application built using JavaScript, HTML, and CS
 
 ## Demo
 
-![Calculator Screenshot](![image](https://github.com/user-attachments/assets/1e1167d8-b0bd-46a1-8d5d-089b3d654292)
-)
+![Calculator Screenshot](https://github.com/user-attachments/assets/1e1167d8-b0bd-46a1-8d5d-089b3d654292)
+
 
 ## Setup
 
